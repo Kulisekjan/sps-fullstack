@@ -1,4 +1,4 @@
-# Jméno Příjmení
+# Jan Kulísek
 ---
 ## Zvolené rozšíření
 - Popisek

@@ -1,0 +1,23 @@
+{
+  "name": "sps-fullstack",
+  "version": "1.0.0",
+  "description": "---\r ## Zvolené rozšíření\r - Popisek\r - Popisek2\r ---\r ## Spuštění aplikace",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kulisekjan/sps-fullstack.git"
+  },
+  "author": "Jan Kulisek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kulisekjan/sps-fullstack/issues"
+  },
+  "homepage": "https://github.com/Kulisekjan/sps-fullstack#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+  }
+}
